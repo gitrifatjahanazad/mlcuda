@@ -40,5 +40,8 @@ NVIDIA smi command result,
 _________________________
 ![installing_cuda](img/installing_cuda/nvidia_smi.png)
 
+# References
+[references](references.md)
+
 
 
